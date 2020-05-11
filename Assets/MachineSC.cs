@@ -15,6 +15,6 @@ public class MachineSC : MonoBehaviour
 
     private void OnMouseDown()
     {
-        
+        FindObjectOfType<PlayerEq>().id = id;
     }
 }
