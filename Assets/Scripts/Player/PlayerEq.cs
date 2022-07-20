@@ -10,10 +10,6 @@ public class PlayerEq : MonoBehaviour
     public GameObject[] objectInHand;
     public Camera cameraPlayer;
 
-    void Start()
-    {
-        
-    }
 
     void Update()
     {
